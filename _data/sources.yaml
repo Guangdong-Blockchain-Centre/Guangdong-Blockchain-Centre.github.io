@@ -1,9 +1,9 @@
 - id: doi:10.1016/j.bcra.2026.100455
   type: paper
   tags: [defi, mev, security, survey]
-  description: "Survey of MEV threats and countermeasures in DeFi ecosystems."
+  description: Survey of MEV threats and countermeasures in DeFi ecosystems.
 
 - id: doi:10.1109/TMC.2025.3649700
   type: paper
   tags: [uav, mec, blockchain, mimo]
-  description: "Blockchain-based MIMO UAV-aided MEC with trajectory planning and task offloading."
+  description: Blockchain-based MIMO UAV-aided MEC with trajectory planning and task offloading.
