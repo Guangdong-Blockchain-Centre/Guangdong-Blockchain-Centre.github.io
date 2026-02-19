@@ -1,81 +1,21 @@
 ---
+title: Guangdong Blockchain Centre
+nav:
+  order: 1
 ---
 
-# Guangdong-Blockchain-Centre's Website
+# Prof. Qiang Qu
 
-An engaging 1-3 sentence description of your lab.
+Qiang Qu is a Full Professor at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences. He serves as the Director of the **Guangdong Provincial Blockchain and Distributed IoT Security Engineering Research Center** and Deputy Director of the **Shenzhen Key Laboratory on High-performance Data Mining**. He is a Senior Member of the China Computer Federation (CCF).
 
-{% include section.html %}
+Qiang received his PhD from **Aarhus University** in 2014 under the supervision of Obel Professor **Christian S. Jensen**. He has held research appointments at **Innopolis University**, **Carnegie Mellon University**, **ETH Zurich**, and **Singapore Management University**. He joined the Chinese Academy of Sciences in 2016 and was promoted to Full Professor in 2020. He has led multiple funded projects as PI and currently serves as **Chief Scientist** on a project supported by the **National Key Research and Development Program of China**.
 
-## Highlights
+## Research Interests
+- Blockchain and Web3 technologies
+- Databases and data management systems
+- Data mining and graph intelligence
+- Advanced data intelligence systems and security for distributed IoT
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+## Open Positions
+Multiple **postdoc**, **assistant professor**, and **PhD** positions are available.  
+If you are interested, please contact: **qiang@siat.ac.cn**
