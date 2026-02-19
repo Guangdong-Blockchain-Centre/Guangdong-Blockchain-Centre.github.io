@@ -1,9 +1,11 @@
 # site properties and page defaults
-title: Guangdong-Blockchain-Centre
-subtitle: 
-description: Qiang Qu is a Principal Investigator and Full Professor at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences.
-He serves as the Director of the **Guangdong Provincial Blockchain and Distributed IoT Security Engineering Research Centre** and Deputy Director of the **Shenzhen Key Laboratory on High-performance Data Mining**. 
-He is a Senior Member of the China Computer Federation (CCF).
+title: Guangdong Blockchain Centre
+subtitle: Guangdong Provincial Blockchain and Distributed IoT Security Engineering Research Center
+description: >-
+  Qiang Qu is a full professor at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
+  He is the Director of Guangdong Provincial Blockchain and Distributed IoT Security Engineering Research Center,
+  and Deputy Director of Shenzhen Key Laboratory on High-performance Data Mining.
+
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -11,11 +13,7 @@ proofer: false
 # site social media and other links
 links:
   email: qiang@siat.ac.cn
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
   github: Guangdong-Blockchain-Centre
-  twitter: Guangdong-Blockchain-Centre
-  youtube: Guangdong-Blockchain-Centre
 
 ### jekyll settings
 
@@ -26,11 +24,13 @@ defaults:
       path: ""
     values:
       layout: default
+
   # markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
+
   # markdown files in /_posts
   - scope:
       type: "posts"
