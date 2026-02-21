@@ -262,3 +262,26 @@
     offloading.
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.3390/fi17020057
+  title: 'AI Agents Meet Blockchain: A Survey on Secure and Scalable Collaboration
+    for Multi-Agents'
+  authors:
+  - Md Monjurul Karim
+  - Dong Hoang Van
+  - Sangeen Khan
+  - Qiang Qu
+  - Yaroslav Kholodov
+  publisher: Future Internet
+  date: '2025-02-02'
+  link: https://www.mdpi.com/1999-5903/17/2/57
+  type: paper
+  tags:
+  - AI agent
+  - blockchain
+  - decentralized AI
+  - Large language model
+  - web3
+  description: "How AI agents enhance decentralized systems and examine blockchain\u2019\
+    s role in enabling secure and scalable collaboration."
+  plugin: sources.py
+  file: sources.yaml
