@@ -7,3 +7,10 @@
   type: paper
   tags: [uav, mec, blockchain, mimo]
   description: Blockchain-based MIMO UAV-aided MEC with trajectory planning and task offloading.
+
+  - id: https://doi.org/10.3390/fi17020057
+  type: paper
+  tags: [AI agent, blockchain, decentralized AI, Large language model, web3]
+  description: How AI agents enhance decentralized systems and examine blockchain’s role in enabling secure and scalable collaboration.
+
+  
