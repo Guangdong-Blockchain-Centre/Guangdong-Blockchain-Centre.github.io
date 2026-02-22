@@ -1,225 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.bcra.2026.100455
   title: 'Securing Decentralized Finance: A Comprehensive Survey of Maximal Extractable
     Value and Its Countermeasures'
@@ -230,6 +10,9 @@
   publisher: 'Blockchain: Research and Applications'
   date: '2026-02-01'
   link: https://doi.org/hbpxtz
+  orcid: 0000-0001-5814-8460
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   tags:
   - defi
@@ -237,8 +20,6 @@
   - security
   - survey
   description: Survey of MEV threats and countermeasures in DeFi ecosystems.
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TMC.2025.3649700
   title: Blockchain-Based MIMO UAV-Aided Mobile Edge Computing
   authors:
@@ -252,6 +33,9 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2026-01-01'
   link: https://doi.org/hbpxt2
+  orcid: 0000-0001-5814-8460
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   tags:
   - uav
@@ -260,8 +44,1853 @@
   - mimo
   description: Blockchain-based MIMO UAV-aided MEC with trajectory planning and task
     offloading.
-  plugin: sources.py
-  file: sources.yaml
+- id: doi:10.1109/TDSC.2026.3661572
+  title: 'PriFFT: Privacy-Preserving Federated Fine-Tuning of Large Language Models
+    Via Hybrid Secret Sharing'
+  authors:
+  - Zhichao You
+  - Xuewen Dong
+  - Ke Cheng
+  - Xutong Mu
+  - Jiaxuan Fu
+  - Shiyang Ma
+  - Qiang Qu
+  - Yulong Shen
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2026-01-01'
+  link: https://doi.org/hbp9ns
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-95-5716-5_35
+  title: "Probabilistic Optimization of\_Top-k Aggregation in\_Distributed Environments"
+  authors:
+  - Dong Hoang Van
+  - Md Monjurul Karim
+  - Qiang Qu
+  publisher: Lecture Notes in Computer Science
+  date: '2026-01-01'
+  link: https://doi.org/hbp9nt
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bcra.2025.100379
+  title: 'Bitcoin reimagined: A comprehensive study of ordinals and inscriptions protocols
+    for Web3 asset innovation'
+  authors:
+  - Md Monjurul Karim
+  - Qiang Qu
+  - Yaoyi Cai
+  - Teddy Liu
+  - Xingchen Meng
+  publisher: 'Blockchain: Research and Applications'
+  date: '2025-09-01'
+  link: https://doi.org/hbp9nv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fi17080353
+  title: 'Transforming Data Annotation with AI Agents: A Review of Architectures,
+    Reasoning, Applications, and Impact'
+  authors:
+  - Md Monjurul Karim
+  - Sangeen Khan
+  - Dong Hoang Van
+  - Xinyue Liu
+  - Chunhui Wang
+  - Qiang Qu
+  publisher: Future Internet
+  date: '2025-08-02'
+  link: https://doi.org/g94w27
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TDSC.2025.3543020
+  title: Adaptive Backdoor Attacks With Reasonable Constraints on Graph Neural Networks
+  authors:
+  - Xuewen Dong
+  - Jiachen Li
+  - Shujun Li
+  - Zhichao You
+  - Qiang Qu
+  - Yaroslav Kholodov
+  - Yulong Shen
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2025-07-01'
+  link: https://doi.org/hbp9nw
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/qre.3695
+  title: "Prognostic\u2010Based Active Battery Degradation Management in Wireless\
+    \ Sensor Networks for Group Replacement"
+  authors:
+  - Lang Wu
+  - Qiang Zhou
+  - Hongki Jo
+  - Muhammad M. Saleem
+  - Qiang Qu
+  - "Jong\u2010Hyun Jeong"
+  publisher: Quality and Reliability Engineering International
+  date: '2024-12-06'
+  link: https://doi.org/hbp9nx
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNNLS.2024.3365858
+  title: Few-Shot Relation Extraction With Automatically Generated Prompts
+  authors:
+  - Xiaoyan Zhao
+  - Min Yang
+  - Qiang Qu
+  - Ruifeng Xu
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2025-03-01'
+  link: https://doi.org/hbp9nz
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fi17020057
+  title: 'AI Agents Meet Blockchain: A Survey on Secure and Scalable Collaboration
+    for Multi-Agents'
+  authors:
+  - Md Monjurul Karim
+  - Dong Hoang Van
+  - Sangeen Khan
+  - Qiang Qu
+  - Yaroslav Kholodov
+  publisher: Future Internet
+  date: '2025-02-02'
+  link: https://doi.org/hbp9n2
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:122390482
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:122390482
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2503.03146
+  title: 'PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models
+    via Hybrid Secret Sharing'
+  authors:
+  - Zhichao You
+  - Xuewen Dong
+  - Ke Cheng
+  - Xutong Mu
+  - Jiaxuan Fu
+  - Shiyang Ma
+  - Qiang Qu
+  - Yulong Shen
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbp9n3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2501.04236
+  title: 'SHARE: Optimizing Secure Hub Allocation and Routing Efficiency in Payment
+    Channel Networks'
+  authors:
+  - Lingxiao Yang
+  - Xuewen Dong
+  - Wei Wang
+  - Yong Yu
+  - Sheng Gao
+  - Qiang Qu
+  - Yulong Shen
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hbp9n4
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-96-0579-8_18
+  title: "REXIO: Indexing for\_Low Write Amplification by\_Reducing Extra I/Os in\_\
+    Key-Value Store Under Mixed Read/Write Workloads"
+  authors:
+  - Zizhao Wang
+  - Qiang Qu
+  - Nan Han
+  - Zhelang Deng
+  - Yizhuo Ma
+  - Xiaowen Huang
+  - Jintao Meng
+  publisher: Lecture Notes in Computer Science
+  date: '2024-11-29'
+  link: https://doi.org/hbp9n5
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JIOT.2024.3441814
+  title: 'CIC-SIoT: Clean-Slate Information-Centric Software-Defined Content Discovery
+    and Distribution for Internet of Things'
+  authors:
+  - Md Monjurul Karim
+  - Kashif Sharif
+  - Sujit Biswas
+  - Zohaib Latif
+  - Qiang Qu
+  - Fan Li
+  publisher: IEEE Internet of Things Journal
+  date: '2024-11-15'
+  link: https://doi.org/hbp9n6
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26599/bdma.2024.9020033
+  title: 'SNCA: Semi-Supervised Node Classification for Evolving Large Attributed
+    Graphs'
+  authors:
+  - Faima Abbasi
+  - Muhammad Muzammal
+  - Qiang Qu
+  - Farhan Riaz
+  - Jawad Ashraf
+  publisher: Big Data Mining and Analytics
+  date: '2024-09-01'
+  link: https://doi.org/hbp9n7
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.heliyon.2024.e28312
+  title: 'Optimizing hydropower scheduling through accurate power load prediction:
+    A practical case study'
+  authors:
+  - Guangqin Huang
+  - Ming Tan
+  - Zhihang Meng
+  - Jiaqi Yan
+  - Jin Chen
+  - Qiang Qu
+  publisher: Heliyon
+  date: '2024-04-01'
+  link: https://doi.org/hbp9n8
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:91414211
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:91414211
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/SMTD.202301585
+  title: "An Effective DNA\u2010Based File Storage System for Practical Archiving\
+    \ and Retrieval of Medical MRI Data"
+  authors:
+  - Abdur Rasool
+  - Jingwei Hong
+  - Zhiling Hong
+  - Yuanzhen Li
+  - Chao Zou
+  - Hui Chen
+  - Qiang Qu
+  - Yang Wang
+  - Qingshan Jiang
+  - Xiaoluo Huang
+  - Junbiao Dai
+  publisher: Small Methods
+  date: '2024-05-29'
+  link: https://doi.org/hbp9n9
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001239935600072
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001239935600072
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11704-023-3523-9
+  title: Introducing on-chain graph data to consortium blockchain for commercial transactions
+  authors:
+  - Pengyi Zhang
+  - Yuchen Yuan
+  - Jie Song
+  - Yu Gu
+  - Qiang Qu
+  - Yongjie Bai
+  publisher: Frontiers of Computer Science
+  date: '2024-01-24'
+  link: https://doi.org/hbp9pb
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26599/TST.2023.9010136
+  title: On Time-Aware Cross-Blockchain Data Migration
+  authors:
+  - Mengqiu Zhang
+  - Qiang Qu
+  - Li Ning
+  - Jianping Fan
+  publisher: Tsinghua Science and Technology
+  date: '2024-12-01'
+  link: https://doi.org/hbp9pc
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TDSC.2023.3239007
+  title: 'PILE: Robust Privacy-Preserving Federated Learning Via Verifiable Perturbations'
+  authors:
+  - Xiangyun Tang
+  - Meng Shen
+  - Qi Li
+  - Liehuang Zhu
+  - Tengfei Xue
+  - Qiang Qu
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2023-11-01'
+  link: https://doi.org/hbp9pd
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compbiomed.2023.107404
+  title: 'BO-DNA: Biologically optimized encoding model for a highly-reliable DNA
+    data storage'
+  authors:
+  - Abdur Rasool
+  - Jingwei Hong
+  - Qingshan Jiang
+  - Hui Chen
+  - Qiang Qu
+  publisher: Computers in Biology and Medicine
+  date: '2023-10-01'
+  link: https://doi.org/g4ngr5
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-30678-5_59
+  title: 'EduChain: A Blockchain-Based Privacy-Preserving Lifelong Education Platform'
+  authors:
+  - Xinzhe Huang
+  - Yujue Wang
+  - Hai Liang
+  - Yong Ding
+  - Qianhong Wu
+  - Ziyi Zhang
+  - Qiang Qu
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/hbp9pf
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2023.1158337
+  title: Evolutionary approach to construct robust codes for DNA-based data storage
+  authors:
+  - Abdur Rasool
+  - Qingshan Jiang
+  - Yang Wang
+  - Xiaoluo Huang
+  - Qiang Qu
+  - Junbiao Dai
+  publisher: Frontiers in Genetics
+  date: '2023-03-20'
+  link: https://doi.org/hbp9pg
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TKDE.2022.3161584
+  title: Exploring Privileged Features for Relation Extraction with Contrastive Student-Teacher
+    Learning
+  authors:
+  - Xiaoyan Zhao
+  - Min Yang
+  - Qiang Qu
+  - Ruifeng Xu
+  - Jieke Li
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2022-01-01'
+  link: https://doi.org/g9q49m
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41598-023-45995-3
+  title: Hydropower station scheduling with ship arrival prediction and energy storage
+  authors:
+  - Enjiang Zhou
+  - Xiao Liu
+  - Zhihang Meng
+  - Song Yu
+  - Jinxiu Mei
+  - Qiang Qu
+  publisher: Scientific Reports
+  date: '2023-11-03'
+  link: https://doi.org/hbp9ph
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.23285453
+  title: Optimal Hub Placement and Deadlock-Free Routing for Payment Channel Network
+    Scalability
+  authors:
+  - Lingxiao Yang
+  - Xuewen Dong
+  - Sheng Gao
+  - Qiang Qu
+  - Xiaodong Zhang
+  - Wensheng Tian
+  - Yulong Shen
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2023-06-07'
+  link: https://doi.org/hbp9pj
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2304.10490
+  title: 'Patents and intellectual property assets as non-fungible tokens: key technologies
+    and challenges'
+  authors:
+  - Seyed Mojtaba Hosseini Bamakan
+  - Nasim Nezhadsistani
+  - Omid Bodaghi
+  - Qiang Qu
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hbp9pk
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jpdc.2023.104730
+  title: 'Why blockchain needs graph: A survey on studies, scenarios, and solutions'
+  authors:
+  - Jie Song
+  - Pengyi Zhang
+  - Qiang Qu
+  - Yongjie Bai
+  - Yu Gu
+  - Ge Yu
+  publisher: Journal of Parallel and Distributed Computing
+  date: '2023-10-01'
+  link: https://doi.org/hbp9pm
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph19063211
+  title: Improved Machine Learning-Based Predictive Models for Breast Cancer Diagnosis
+  authors:
+  - Abdur Rasool
+  - Chayut Bunterngchit
+  - Luo Tiejian
+  - Md. Ruhul Islam
+  - Qiang Qu
+  - Qingshan Jiang
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-03-09'
+  link: https://doi.org/gr2z2f
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-19-0852-1_32
+  title: A Cryptocurrency Price Prediction Model Based on Twitter Sentiment Indicators
+  authors:
+  - Zi Ye
+  - Weichen Liu
+  - Qiang Qu
+  - Qingshan Jiang
+  - Yi Pan
+  publisher: Communications in Computer and Information Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9pn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics11182937
+  title: A Feature-Based Robust Method for Abnormal Contracts Detection in Ethereum
+    Blockchain
+  authors:
+  - Ali Aljofey
+  - Abdur Rasool
+  - Qingshan Jiang
+  - Qiang Qu
+  publisher: Electronics
+  date: '2022-09-16'
+  link: https://doi.org/hbp9pp
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-96772-7_25
+  title: A MVCC Approach to Parallelizing Interoperability of Consortium Blockchain
+  authors:
+  - Weiyi Lin
+  - Qiang Qu
+  - Li Ning
+  - Jianping Fan
+  - Qingshan Jiang
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9pq
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.procs.2022.11.238
+  title: A Review of Non-fungible Tokens Applications in the Real-world and Metaverse
+  authors:
+  - Saeed Banaeian Far
+  - Seyed Mojtaba Hosseini Bamakan
+  - Qiang Qu
+  - Qingshan Jiang
+  publisher: Procedia Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/gr45xk
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-95388-1_19
+  title: "A Strategy-based Optimization Algorithm to\_Design Codes for\_DNA Data Storage\
+    \ System"
+  authors:
+  - Abdur Rasool
+  - Qiang Qu
+  - Qingshan Jiang
+  - Yang Wang
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9pr
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-19-0852-1_52
+  title: A Supervised Learning Model for Detecting Ponzi Contracts in Ethereum Blockchain
+  authors:
+  - Ali Aljofey
+  - Qingshan Jiang
+  - Qiang Qu
+  publisher: Communications in Computer and Information Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9ps
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2207.09192
+  title: A self-contained and self-explanatory DNA storage system
+  authors:
+  - Min Li
+  - Jiashu Wu
+  - Junbiao Dai
+  - Qingshan Jiang
+  - Qiang Qu
+  - Xiaoluo Huang
+  - Yang Wang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hbp9pt
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-96772-7_26
+  title: An Effective and Reliable Cross-Blockchain Data Migration Approach
+  authors:
+  - Mengqiu Zhang
+  - Qiang Qu
+  - Li Ning
+  - Jianping Fan
+  - Ruijie Yang
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9pv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-10841-5
+  title: An effective detection approach for phishing websites using URL and HTML
+    features
+  authors:
+  - Ali Aljofey
+  - Qingshan Jiang
+  - Abdur Rasool
+  - Hui Chen
+  - Wenyin Liu
+  - Qiang Qu
+  - Yang Wang
+  publisher: Scientific Reports
+  date: '2022-05-25'
+  link: https://doi.org/hbp9pw
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/math10050845
+  title: Bio-Constrained Codes with Neural Network for Density-Based DNA Data Storage
+  authors:
+  - Abdur Rasool
+  - Qiang Qu
+  - Yang Wang
+  - Qingshan Jiang
+  publisher: Mathematics
+  date: '2022-03-07'
+  link: https://doi.org/hbp9px
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSAC.2022.3213358
+  title: Blockchain-Empowered Collaborative Task Offloading for Cloud-Edge-Device
+    Computing
+  authors:
+  - Su Yao
+  - Mu Wang
+  - Qiang Qu
+  - Ziyi Zhang
+  - Yi-Feng Zhang
+  - Ke Xu
+  - Mingwei Xu
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2022-12-01'
+  link: https://doi.org/hbp9pz
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-89698-0_101
+  title: 'HSMC: Hybrid Sentiment Method for Correlation to Analyze COVID-19 Tweets'
+  authors:
+  - Abdur Rasool
+  - Qingshan Jiang
+  - Qiang Qu
+  - Marjan Kamyab
+  - Mingqing Huang
+  publisher: Lecture Notes on Data Engineering and Communications Technologies
+  date: '2022-01-01'
+  link: https://doi.org/g8xrkg
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.asoc.2021.108103
+  title: Information fusion oriented heterogeneous social network for friend recommendation
+    via community detection
+  authors:
+  - Mingqing Huang
+  - Qingshan Jiang
+  - Qiang Qu
+  - Lifei Chen
+  - Hui Chen
+  publisher: Applied Soft Computing
+  date: '2022-01-01'
+  link: https://doi.org/hbp9p2
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-05920-6
+  title: Patents and intellectual property assets as non-fungible tokens; key technologies
+    and challenges
+  authors:
+  - Seyed Mojtaba Hosseini Bamakan
+  - Nasim Nezhadsistani
+  - Omid Bodaghi
+  - Qiang Qu
+  publisher: Scientific Reports
+  date: '2022-02-09'
+  link: https://doi.org/gqhgns
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-19-0852-1_19
+  title: Towards Convergence of Blockchain and Self-sovereign Identity for Privacy-Preserving
+    Secure Federated Learning
+  authors:
+  - Rakib Ul Haque
+  - A. S. M. Touhidul Hasan
+  - Apubra Daria
+  - Qiang Qu
+  - Qingshan Jiang
+  publisher: Communications in Computer and Information Science
+  date: '2022-01-01'
+  link: https://doi.org/hbp9p3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jcde/qwac087
+  title: 'Towards an Internet of Energy for smart and distributed generation: applications,
+    strategies, and challenges'
+  authors:
+  - Qifeng Gu
+  - Qiang Qu
+  publisher: Journal of Computational Design and Engineering
+  date: '2022-09-07'
+  link: https://doi.org/hbp9p4
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-71377-5_5
+  title: Understanding Health Data by Mobility Analytics
+  authors:
+  - Qiang Qu
+  - Susheng Zhang
+  - Seyed Mojtaba Hosseini Bamakan
+  - Christos Doulkeridis
+  - George Vouros
+  publisher: Geospatial Technology for Human Well-Being and Health
+  date: '2022-01-01'
+  link: https://doi.org/hbp9p5
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNNLS.2020.3017747
+  title: An Effective Hybrid Learning Model for Real-Time Event Summarization
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Ying Shen
+  - Zhou Zhao
+  - Xiaojun Chen
+  - Chengming Li
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-10-01'
+  link: https://doi.org/hbp9p6
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/sym13050869
+  title: An Overlapping Community Detection Approach in Ego-Splitting Networks Using
+    Symmetric Nonnegative Matrix Factorization
+  authors:
+  - Mingqing Huang
+  - Qingshan Jiang
+  - Qiang Qu
+  - Abdur Rasool
+  publisher: Symmetry
+  date: '2021-05-13'
+  link: https://doi.org/hbp9p7
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNNLS.2020.2975035
+  title: 'Multitask Learning and Reinforcement Learning for Personalized Dialog Generation:
+    An Empirical Study'
+  authors:
+  - Min Yang
+  - Weiyi Huang
+  - Wenting Tu
+  - Qiang Qu
+  - Ying Shen
+  - Kai Lei
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-01-01'
+  link: https://doi.org/hbp9p8
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-951089/v1
+  title: A Decentralized Framework for Patents and Intellectual Property as NFT in
+    Blockchain Networks
+  authors:
+  - Seyed Mojtaba Hosseini Bamakan
+  - Nasim Nezhadsistani
+  - Omid Bodaghi
+  - Qiang Qu
+  publisher: Research Square Platform LLC
+  date: '2021-10-05'
+  link: https://doi.org/hbp9p9
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-97570-3
+  title: A self-contained and self-explanatory DNA storage system
+  authors:
+  - Min Li
+  - Jiashu Wu
+  - Junbiao Dai
+  - Qingshan Jiang
+  - Qiang Qu
+  - Xiaoluo Huang
+  - Yang Wang
+  publisher: Scientific Reports
+  date: '2021-09-10'
+  link: https://doi.org/gt7rbq
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.COSE.2020.102077
+  title: Authenticity verification on social data outsourcing
+  authors:
+  - Haowen Chen
+  - Qiang Qu
+  - Yexiong Lin
+  - Xia Chen
+  - Keqin Li
+  publisher: Computers &amp; Security
+  date: '2021-01-01'
+  link: https://doi.org/hbp9qb
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bcra.2021.100019
+  title: Blockchain technology forecasting by patent analytics and text mining
+  authors:
+  - Seyed Mojtaba Hosseini Bamakan
+  - Alireza Babaei Bondarti
+  - Parinaz Babaei Bondarti
+  - Qiang Qu
+  publisher: 'Blockchain: Research and Applications'
+  date: '2021-06-01'
+  link: https://doi.org/hbp9qc
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.dcan.2020.10.004
+  title: Capability-based IoT access control using blockchain
+  authors:
+  - Yue Liu
+  - Qinghua Lu
+  - Shiping Chen
+  - Qiang Qu
+  - "Hugo O\u2019Connor"
+  - Kim-Kwang Raymond Choo
+  - He Zhang
+  publisher: Digital Communications and Networks
+  date: '2021-11-01'
+  link: https://doi.org/hbp9qd
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HEALTHCOM49281.2021.9399031
+  title: GeoAI-based Epidemic Control with Geo-Social Data Sharing on Blockchain
+  authors:
+  - Shaoliang Peng
+  - Liang Bai
+  - Li Xiong
+  - Qiang Qu
+  - Xiaolan Xie
+  - Shulin Wang
+  publisher: 2020 IEEE International Conference on E-health Networking, Application
+    &amp; Services (HEALTHCOM)
+  date: '2021-03-01'
+  link: https://doi.org/hbp9qf
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RCAR52367.2021.9517625
+  title: LSTM based Model for Real-time Stock Market Prediction on Unexpected Incidents
+  authors:
+  - Saba Aslam
+  - Abdur Rasool
+  - Qingshan Jiang
+  - Qiang Qu
+  publisher: 2021 IEEE International Conference on Real-time Computing and Robotics
+    (RCAR)
+  date: '2021-07-15'
+  link: https://doi.org/hbp9qg
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TAFFC.2019.2897093
+  title: Neural Attentive Network for Cross-Domain Aspect-Level Sentiment Classification
+  authors:
+  - Min Yang
+  - Wenpeng Yin
+  - Qiang Qu
+  - Wenting Tu
+  - Ying Shen
+  - Xiaojun Chen
+  publisher: IEEE Transactions on Affective Computing
+  date: '2021-07-01'
+  link: https://doi.org/hbp9qh
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RCAR52367.2021.9517671
+  title: 'WRS: A Novel Word-embedding Method for Real-time Sentiment with Integrated
+    LSTM-CNN Model'
+  authors:
+  - Abdur Rasool
+  - Qingshan Jiang
+  - Qiang Qu
+  - Chaojie Ji
+  publisher: 2021 IEEE International Conference on Real-time Computing and Robotics
+    (RCAR)
+  date: '2021-07-15'
+  link: https://doi.org/hbp9qj
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-019-04630-x
+  title: Interactive knowledge-enhanced attention network for answer selection
+  authors:
+  - Weiyi Huang
+  - Qiang Qu
+  - Min Yang
+  publisher: Neural Computing and Applications
+  date: '2020-01-21'
+  link: https://doi.org/gj7chb
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2019.10.075
+  title: Semantics-aware influence maximization in social networks
+  authors:
+  - Yipeng Chen
+  - Qiang Qu
+  - Yuanxiang Ying
+  - Hongyan Li
+  - Jialie Shen
+  publisher: Information Sciences
+  date: '2020-03-01'
+  link: https://doi.org/hbp9qk
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1061/(ASCE)EY.1943-7897.0000623
+  title: A Decentralized System for Green Energy Distribution in a Smart                    Grid
+  authors:
+  - Romana Talat
+  - Muhammad Muzammal
+  - Qiang Qu
+  - Wei Zhou
+  - Muhammad Najam-ul-Islam
+  - S. M. Hosseini Bamakan
+  - Jiangnan Qiu
+  publisher: Journal of Energy Engineering
+  date: '2020-02-01'
+  link: https://doi.org/hbp9qm
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/STI50764.2020.9350393
+  title: A Hybrid Blockchain-based Zero Reconciliation Approach for an Effective Mobile
+    Wallet
+  authors:
+  - Tanvir Ahmed Khan
+  - A S M Touhidul Hasan
+  - Qingshan Jiang
+  - Qiang Qu
+  publisher: 2020 2nd International Conference on Sustainable Technologies for Industry
+    4.0 (STI)
+  date: '2020-12-19'
+  link: https://doi.org/hbp9qn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2019.09.014
+  title: A decentralised approach for link inference in large signed graphs
+  authors:
+  - Muhammad Muzammal
+  - Faima Abbasi
+  - Qiang Qu
+  - Romana Talat
+  - Jianping Fan
+  publisher: Future Generation Computer Systems
+  date: '2020-01-01'
+  link: https://doi.org/gnd9jh
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:10450823
+  title: ISSN 1045-0823 (Print) | IJCAI | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/10450823
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10723-020-09535-x
+  title: 'AirCargoChain: A Distributed and Scalable Data Sharing Approach of Blockchain
+    for Air Cargo'
+  authors:
+  - Gejun Le
+  - Qifeng Gu
+  - Qiang Qu
+  - Qingshan Jiang
+  - Jianping Fan
+  publisher: Journal of Grid Computing
+  date: '2020-12-01'
+  link: https://doi.org/hbp9qp
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics9091514
+  title: An Effective Phishing Detection Model Based on Character Level Convolutional
+    Neural Network from URL
+  authors:
+  - Ali Aljofey
+  - Qingshan Jiang
+  - Qiang Qu
+  - Mingqing Huang
+  - Jean-Pierre Niyigena
+  publisher: Electronics
+  date: '2020-09-15'
+  link: https://doi.org/hbp9qq
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-018-3825-2
+  title: Cross-domain aspect/sentiment-aware abstractive review summarization by combining
+    topic modeling and deep reinforcement learning
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Ying Shen
+  - Kai Lei
+  - Jia Zhu
+  publisher: Neural Computing and Applications
+  date: '2018-10-31'
+  link: https://doi.org/grbtn7
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDE48307.2020.00108
+  title: Efficient Attribute-Constrained Co-Located Community Search
+  authors:
+  - Jiehuan Luo
+  - Xin Cao
+  - Xike Xie
+  - Qiang Qu
+  - Zhiqiang Xu
+  - Christian S. Jensen
+  publisher: 2020 IEEE 36th International Conference on Data Engineering (ICDE)
+  date: '2020-04-01'
+  link: https://doi.org/hbp9qr
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3397271.3401328
+  title: Improving Neural Chinese Word Segmentation with Lexicon-enhanced Adaptive
+    Attention
+  authors:
+  - Xiaoyan Zhao
+  - Min Yang
+  - Qiang Qu
+  - Yang Sun
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/hbp9qs
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11704-019-8235-9
+  title: Matching user identities across social networks with limited profile data
+  authors:
+  - Ildar Nurgaliev
+  - Qiang Qu
+  - Seyed Mojtaba Hosseini Bamakan
+  - Muhammad Muzammal
+  publisher: Frontiers of Computer Science
+  date: '2020-04-19'
+  link: https://doi.org/gnffms
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics9122096
+  title: Privacy-Preserving K-Nearest Neighbors Training over Blockchain-Based Encrypted
+    Health Data
+  authors:
+  - Rakib Ul Haque
+  - A S M Touhidul Hasan
+  - Qingshan Jiang
+  - Qiang Qu
+  publisher: Electronics
+  date: '2020-12-09'
+  link: https://doi.org/hbp9qt
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2019.06.051
+  title: Contextual-boosted deep neural collaborative filtering model for interpretable
+    recommendation
+  authors:
+  - Shuai Yu
+  - Min Yang
+  - Qiang Qu
+  - Ying Shen
+  publisher: Expert Systems with Applications
+  date: '2019-12-01'
+  link: https://doi.org/hbp9qv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neunet.2019.06.014
+  title: Investigating the transferring capability of capsule networks for text classification
+  authors:
+  - Min Yang
+  - Wei Zhao
+  - Lei Chen
+  - Qiang Qu
+  - Zhou Zhao
+  - Ying Shen
+  publisher: Neural Networks
+  date: '2019-10-01'
+  link: https://doi.org/ghpb62
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2019.03.038
+  title: On spatio-temporal blockchain query processing
+  authors:
+  - Qiang Qu
+  - Ildar Nurgaliev
+  - Muhammad Muzammal
+  - Christian S. Jensen
+  - Jianping Fan
+  publisher: Future Generation Computer Systems
+  date: '2019-09-01'
+  link: https://doi.org/gfxvzf
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10707-019-00374-x
+  title: 'Guest Editorial: Special issue on mobility analytics for spatio-temporal
+    and social data'
+  authors:
+  - Christos Doulkeridis
+  - Qiang Qu
+  - George A. Vouros
+  - "Jo\xE3o B. Rocha-Junior"
+  publisher: GeoInformatica
+  date: '2019-07-01'
+  link: https://doi.org/hbp9qw
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2019.02.040
+  title: Discovering author interest evolution in order-sensitive and Semantic-aware
+    topic modeling
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Xiaojun Chen
+  - Wenting Tu
+  - Ying Shen
+  - Jia Zhu
+  publisher: Information Sciences
+  date: '2019-06-01'
+  link: https://doi.org/gm93vj
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jvcir.2019.03.003
+  title: Fashion recommendations through cross-media information retrieval
+  authors:
+  - Wei Zhou
+  - P.Y. Mok
+  - Yanghong Zhou
+  - Yangping Zhou
+  - Jialie Shen
+  - Qiang Qu
+  - K.P. Chau
+  publisher: Journal of Visual Communication and Image Representation
+  date: '2019-05-01'
+  link: https://doi.org/hbp9qx
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11280-018-0597-7
+  title: 'MARES: multitask learning algorithm for Web-scale real-time event summarization'
+  authors:
+  - Min Yang
+  - Wenting Tu
+  - Qiang Qu
+  - Kai Lei
+  - Xiaojun Chen
+  - Jia Zhu
+  - Ying Shen
+  publisher: World Wide Web
+  date: '2018-06-02'
+  link: https://doi.org/hbp9qz
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2018.07.069
+  title: 'Opinion leader detection: A methodological review'
+  authors:
+  - Seyed Mojtaba Hosseini Bamakan
+  - Ildar Nurgaliev
+  - Qiang Qu
+  publisher: Expert Systems with Applications
+  date: '2019-01-01'
+  link: https://doi.org/gg2fqn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2018.07.042
+  title: 'Renovating blockchain with distributed databases: An open source system'
+  authors:
+  - Muhammad Muzammal
+  - Qiang Qu
+  - Bulat Nasrulin
+  publisher: Future Generation Computer Systems
+  date: '2019-01-01'
+  link: https://doi.org/gd534b
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000486572504105
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000486572504105
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDMW.2018.00027
+  title: A Decentralized Approach for Negative Link Prediction in Large Graphs
+  authors:
+  - Faima Abbasi
+  - Muhammad Muzammal
+  - Qiang Qu
+  publisher: 2018 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2018-11-01'
+  link: https://doi.org/gnd2wn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'A multi-task learning approach for answer selection: A study and a Chinese
+    law dataset<sup>*</sup>'
+  publisher: 33rd AAAI Conference on Artificial Intelligence, AAAI 2019, 31st Innovative
+    Applications of Artificial Intelligence Conference, IAAI 2019 and the 9th AAAI
+    Symposium on Educational Advances in Artificial Intelligence, EAAI 2019
+  date: '2023-08-11'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85066107512&partnerID=MN8TOARS
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2019.02.006
+  title: Advanced community question answering by leveraging external knowledge and
+    multi-task learning
+  authors:
+  - Min Yang
+  - Wenting Tu
+  - Qiang Qu
+  - Wei Zhou
+  - Qiao Liu
+  - Jia Zhu
+  publisher: Knowledge-Based Systems
+  date: '2019-05-01'
+  link: https://doi.org/grfhjv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3357384.3358107
+  title: Best Co-Located Community Search in Attributed Networks
+  authors:
+  - Jiehuan Luo
+  - Xin Cao
+  - Xike Xie
+  - Qiang Qu
+  publisher: Proceedings of the 28th ACM International Conference on Information and
+    Knowledge Management
+  date: '2019-11-03'
+  link: https://doi.org/hbp9q2
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-18576-3_24
+  title: Efficient Search of the Most Cohesive Co-located Community in Attributed
+    Networks
+  authors:
+  - Jiehuan Luo
+  - Xin Cao
+  - Qiang Qu
+  - Yaqiong Liu
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/gnghgn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Exploring human-like reading strategy for abstractive text summarization
+  publisher: 33rd AAAI Conference on Artificial Intelligence, AAAI 2019, 31st Innovative
+    Applications of Artificial Intelligence Conference, IAAI 2019 and the 9th AAAI
+    Symposium on Educational Advances in Artificial Intelligence, EAAI 2019
+  date: '2023-08-11'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078759382&partnerID=MN8TOARS
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1609/AAAI.V33I01.33019993
+  title: Learning Document Embeddings with Crossword Prediction
+  authors:
+  - Junyu Luo
+  - Min Yang
+  - Ying Shen
+  - Qiang Qu
+  - Haixia Chai
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2019-07-17'
+  link: https://doi.org/ghkks3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Learning document embeddings with crossword prediction<sup>*</sup>
+  publisher: 33rd AAAI Conference on Artificial Intelligence, AAAI 2019, 31st Innovative
+    Applications of Artificial Intelligence Conference, IAAI 2019 and the 9th AAAI
+    Symposium on Educational Advances in Artificial Intelligence, EAAI 2019
+  date: '2023-08-11'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85066108147&partnerID=MN8TOARS
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RBME.2018.2864254
+  title: 'Learning for Personalized Medicine: A Comprehensive Review From a Deep Learning
+    Perspective'
+  authors:
+  - Sushen Zhang
+  - Seyed Mojtaba Hosseini Bamakan
+  - Qiang Qu
+  - Sha Li
+  publisher: IEEE Reviews in Biomedical Engineering
+  date: '2019-01-01'
+  link: https://doi.org/hbp9q3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3289600.3290609
+  title: NAIRS
+  authors:
+  - Shuai Yu
+  - Yongbo Wang
+  - Min Yang
+  - Baocheng Li
+  - Qiang Qu
+  - Jialie Shen
+  publisher: Proceedings of the Twelfth ACM International Conference on Web Search
+    and Data Mining
+  date: '2019-01-30'
+  link: https://doi.org/hbp9q4
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00530-019-00613-z
+  title: Toward efficient indexing structure for scalable content-based music retrieval
+  authors:
+  - Jialie Shen
+  - Mei Tao
+  - Qiang Qu
+  - Dacheng Tao
+  - Yong Rui
+  publisher: Multimedia Systems
+  date: '2019-04-27'
+  link: https://doi.org/hbp9q5
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-32242-7_11
+  title: 'iRecruit: Towards Automating the Recruitment Process'
+  authors:
+  - Usman Shahbaz
+  - Amin Beheshti
+  - Sadegh Nobari
+  - Qiang Qu
+  - Hye-Young Paik
+  - Mehregan Mahdavi
+  publisher: Lecture Notes in Business Information Processing
+  date: '2019-01-01'
+  link: https://doi.org/hbp9q6
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2018.04.042
+  title: Feature-enhanced attention network for target-dependent sentiment classification
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Xiaojun Chen
+  - Chaoxue Guo
+  - Ying Shen
+  - Kai Lei
+  publisher: Neurocomputing
+  date: '2018-09-01'
+  link: https://doi.org/ggftq3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijgi7020053
+  title: An Effective Privacy Architecture to Preserve User Trajectories in Reward-Based
+    LBS Applications
+  authors:
+  - A Hasan
+  - Qiang Qu
+  - Chengming Li
+  - Lifei Chen
+  - Qingshan Jiang
+  publisher: ISPRS International Journal of Geo-Information
+  date: '2018-02-07'
+  link: https://doi.org/gc7sgp
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2018.01.044
+  title: Heterogeneous anomaly detection in social diffusion with discriminative feature
+    discovery
+  authors:
+  - Siyuan Liu
+  - Qiang Qu
+  - Shuhui Wang
+  publisher: Information Sciences
+  date: '2018-05-01'
+  link: https://doi.org/gdbxf5
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-02922-7_4
+  title: A Robust Spatio-Temporal Verification Protocol for Blockchain
+  authors:
+  - Bulat Nasrulin
+  - Muhammad Muzammal
+  - Qiang Qu
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hbp9q7
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUCOM.2017.08.022
+  title: A Topic Drift Model for authorship attribution
+  authors:
+  - Min Yang
+  - Xiaojun Chen
+  - Wenting Tu
+  - Ziyu Lu
+  - Jia Zhu
+  - Qiang Qu
+  publisher: Neurocomputing
+  date: '2018-01-01'
+  link: https://doi.org/hbp9q8
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICMCCE.2018.00111
+  title: An Approach for Detecting Spammer Invasion Events with Poisson Process
+  authors:
+  - Qiang Qu
+  - Hongtao Yu
+  - Ruiyang Huang
+  publisher: 2018 3rd International Conference on Mechanical, Control and Computer
+    Engineering (ICMCCE)
+  date: '2018-09-01'
+  link: https://doi.org/hbp9q9
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Aspect and sentiment aware abstractive review summarization
+  publisher: COLING 2018 - 27th International Conference on Computational Linguistics,
+    Proceedings
+  date: '2023-08-11'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85114821080&partnerID=MN8TOARS
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MDM.2018.00056
+  title: 'ChainMOB: Mobility Analytics on Blockchain'
+  authors:
+  - Bulat Nasrulin
+  - Muhammad Muzammal
+  - Qiang Qu
+  publisher: 2018 19th IEEE International Conference on Mobile Data Management (MDM)
+  date: '2018-06-01'
+  link: https://doi.org/ggjjrr
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23318422
+  title: ISSN 2331-8422 (Online) | ArXiv.org | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3269206.3269273
+  title: Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Jia Zhu
+  - Ying Shen
+  - Zhou Zhao
+  publisher: Proceedings of the 27th ACM International Conference on Information and
+    Knowledge Management
+  date: '2018-10-17'
+  link: https://doi.org/hbp9rb
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.TRB.2017.11.002
+  title: "Corrigendum to \u201CDynamic Collective Routing using Crowdsourcing Data\u201D\
+    \ [Transp. Res. Part B: Methodol. 93 (2016), 450\u2013469]"
+  authors:
+  - Siyuan Liu
+  - Qiang Qu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2018-07-01'
+  link: https://doi.org/hbp9rc
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-73521-4_10
+  title: Efficient Cross-Modal Retrieval Using Social Tag Information Towards Mobile
+    Applications
+  authors:
+  - Jianfeng He
+  - Shuhui Wang
+  - Qiang Qu
+  - Weigang Zhang
+  - Qingming Huang
+  publisher: Lecture Notes in Computer Science
+  date: '2017-12-28'
+  link: https://doi.org/hbp9rd
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-02922-7_3
+  title: Enabling Blockchain for Efficient Spatio-Temporal Query Processing
+  authors:
+  - Ildar Nurgaliev
+  - Muhammad Muzammal
+  - Qiang Qu
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hbp9rf
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3184558.3186928
+  title: GPSP
+  authors:
+  - Wenyu Du
+  - Shuai Yu
+  - Min Yang
+  - Qiang Qu
+  - Jia Zhu
+  publisher: Companion of the The Web Conference 2018 on The Web Conference 2018 -
+    WWW '18
+  date: '2018-01-01'
+  link: https://doi.org/gkj5bw
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1137/1.9781611975321.71
+  title: Investigating Deep Reinforcement Learning Techniques in Personalized Dialogue
+    Generation
+  authors:
+  - Min Yang
+  - Qiang Qu
+  - Kai Lei
+  - Jia Zhu
+  - Zhou Zhao
+  - Xiaojun Chen
+  - Joshua Z. Huang
+  publisher: Proceedings of the 2018 SIAM International Conference on Data Mining
+  date: '2018-05-07'
+  link: https://doi.org/hbp9rg
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-73521-4_6
+  title: 'JEREMIE: Joint Semantic Feature Learning via Multi-relational Matrix Completion'
+  authors:
+  - Jiaming Zhang
+  - Shuhui Wang
+  - Qiang Qu
+  - Qingming Huang
+  publisher: Lecture Notes in Computer Science
+  date: '2017-12-28'
+  link: https://doi.org/hbp9rh
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3184558.3186926
+  title: Multi-task Learning for Author Profiling with Hierarchical Features
+  authors:
+  - Zhile Jiang
+  - Shuai Yu
+  - Qiang Qu
+  - Min Yang
+  - Junyu Luo
+  - Juncheng Liu
+  publisher: Companion of the The Web Conference 2018 on The Web Conference 2018  -
+    WWW '18
+  date: '2018-01-01'
+  link: https://doi.org/hbp9rj
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Negative-aware influence maximization on social networks
+  publisher: 32nd AAAI Conference on Artificial Intelligence, AAAI 2018
+  date: '2023-08-11'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85060459906&partnerID=MN8TOARS
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUNET.2018.03.009
+  title: Personalized response generation by Dual-learning based domain adaptation
+  authors:
+  - Min Yang
+  - Wenting Tu
+  - Qiang Qu
+  - Zhou Zhao
+  - Xiaojun Chen
+  - Jia Zhu
+  publisher: Neural Networks
+  date: '2018-07-01'
+  link: https://doi.org/gdnwvz
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:16113349 03029743
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/16113349 03029743
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2018.05.027
+  title: Ramp loss one-class support vector machine; A robust and effective approach
+    to anomaly detection problems
+  authors:
+  - Yingjie Tian
+  - Mahboubeh Mirzabagheri
+  - Seyed Mojtaba Hosseini Bamakan
+  - Huadong Wang
+  - Qiang Qu
+  publisher: Neurocomputing
+  date: '2018-10-01'
+  link: https://doi.org/ggrnmp
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-02922-7_24
+  title: Renovating Watts and Strogatz Random Graph Generation by a Sequential Approach
+  authors:
+  - Sadegh Nobari
+  - Qiang Qu
+  - Muhammad Muzammal
+  - Qingshan Jiang
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/hbp9rk
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0196533
+  title: Shilling attack detection for recommender systems based on credibility of
+    group users and rating time series
+  authors:
+  - Wei Zhou
+  - Junhao Wen
+  - Qiang Qu
+  - Jun Zeng
+  - Tian Cheng
+  publisher: PLOS ONE
+  date: '2018-05-09'
+  link: https://doi.org/hbp9rm
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11042-017-5041-Y
+  title: Task-oriented keyphrase extraction from social media
+  authors:
+  - Min Yang
+  - Yuzhi Liang
+  - Wei Zhao
+  - Wei Xu
+  - Jia Zhu
+  - Qiang Qu
+  publisher: Multimedia Tools and Applications
+  date: '2017-07-31'
+  link: https://doi.org/gc4gq7
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2017.2778690
+  title: Trajectory Mining Using Uncertain Sensor Data
+  authors:
+  - Muhammad Muzammal
+  - Moneeb Gohar
+  - Arif Ur Rahman
+  - Qiang Qu
+  - Awais Ahmad
+  - Gwanggil Jeon
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/hbp9rn
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TITS.2017.2679179
+  title: Spatio-Temporal Analysis of Passenger Travel Patterns in Massive Smart Card
+    Data
+  authors:
+  - Juanjuan Zhao
+  - Qiang Qu
+  - Fan Zhang
+  - Chengzhong Xu
+  - Siyuan Liu
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2017-11-01'
+  link: https://doi.org/gm42gx
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.trb.2016.08.005
+  title: Dynamic collective routing using crowdsourcing data
+  authors:
+  - Siyuan Liu
+  - Qiang Qu
+  publisher: 'Transportation Research Part B: Methodological'
+  date: '2016-11-01'
+  link: https://doi.org/f9b43n
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-39958-4_26
+  title: An Effective Cluster Assignment Strategy for Large Time Series Data
+  authors:
+  - Damir Mirzanurov
+  - Waqas Nawaz
+  - JooYoung Lee
+  - Qiang Qu
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hbp9rp
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TKDE.2016.2601611
+  title: Efficient Online Summarization of Large-Scale Dynamic Networks
+  authors:
+  - Qiang Qu
+  - Siyuan Liu
+  - Feida Zhu
+  - Christian S. Jensen
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2016-12-01'
+  link: https://doi.org/f9cgjv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000399465100033
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000399465100033
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000399925503029
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000399925503029
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000388373401005
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000388373401005
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2882903.2882964
+  title: ROLL
+  authors:
+  - Ali Hadian
+  - Sadegh Nobari
+  - Behrooz Minaei-Bidgoli
+  - Qiang Qu
+  publisher: Proceedings of the 2016 International Conference on Management of Data
+  date: '2016-06-26'
+  link: https://doi.org/gfz6t3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11071-015-2300-1
+  title: "A new six-term 3-D chaotic system with fan-shaped Poincar\xE9 maps"
+  authors:
+  - Jinmei Liu
+  - Qiang Qu
+  - Guanjing Li
+  publisher: Nonlinear Dynamics
+  date: '2015-08-01'
+  link: https://doi.org/f7z6z3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2735634
+  title: Rationality Analytics from Trajectories
+  authors:
+  - Siyuan Liu
+  - Qiang Qu
+  - Shuhui Wang
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2015-07-22'
+  link: https://doi.org/f7m5x2
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000376490300074
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000376490300074
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDMW.2015.106
+  title: Trip Fare Estimation Study from Taxi Routing Behaviors and Localizing Traces
+  authors:
+  - Ce Liu
+  - Qiang Qu
+  publisher: 2015 IEEE International Conference on Data Mining Workshop (ICDMW)
+  date: '2015-11-01'
+  link: https://doi.org/hbp9rq
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MDM.2014.39
+  title: Efficient Top-k Spatial Locality Search for Co-located Spatial Web Objects
+  authors:
+  - Qiang Qu
+  - Siyuan Liu
+  - Bin Yang
+  - Christian S. Jensen
+  publisher: 2014 IEEE 15th International Conference on Mobile Data Management
+  date: '2014-07-01'
+  link: https://doi.org/hbp9rr
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000382946503064
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000382946503064
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-08010-9_68
+  title: Online Community Transition Detection
+  authors:
+  - Biying Tan
+  - Feida Zhu
+  - Qiang Qu
+  - Siyuan Liu
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/ghd885
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
 - id: https://doi.org/10.3390/fi17020057
   title: 'AI Agents Meet Blockchain: A Survey on Secure and Scalable Collaboration
     for Multi-Agents'
