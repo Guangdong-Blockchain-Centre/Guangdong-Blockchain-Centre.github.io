@@ -1,7 +1,7 @@
 ---
 name: Qiang Qu
 image: images/photo.jpg
-role: PI
+role: pi
 affiliation: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 aliases:
   - Q. Qu
