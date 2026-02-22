@@ -1,7 +1,7 @@
 ---
 name: Qiang Qu
 image: images/photo.jpg
-role: pi
+role: principal investigator
 order : 1
 affiliation: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 aliases:
