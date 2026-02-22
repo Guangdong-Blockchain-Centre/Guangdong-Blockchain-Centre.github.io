@@ -5,7 +5,7 @@ description: Postdoc Fellow
 role: Researcher
 links:
   email: karim@siat.ac.cn
-  <!--twitter: sarahjohnson>
+  [//]: # (twitter: sarahjohnson)
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
