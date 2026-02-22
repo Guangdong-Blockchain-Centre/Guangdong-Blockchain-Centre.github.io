@@ -2,6 +2,7 @@
 name: Dong Hoang Van
 image: images/photo.jpg
 role: phd
+order: 4
 links:
   email: hoang@siat.ac.cn
 ---
