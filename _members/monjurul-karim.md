@@ -1,6 +1,6 @@
 ---
 name: Md Monjurul Karim
-image: images/photo.jpg
+image: images/karim.jpg
 description: Postdoc Fellow
 role: Researcher
 order: 2
