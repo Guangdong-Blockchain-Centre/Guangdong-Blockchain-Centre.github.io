@@ -1,6 +1,6 @@
 ---
 name: Prof. Qiang Qu
-image: images/photo.jpg
+image: images/Prof Qu.jpeg
 role: principal investigator
 description: Principal Investigator
 order : 1
