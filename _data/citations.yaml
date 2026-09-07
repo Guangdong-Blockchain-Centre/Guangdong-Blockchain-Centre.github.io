@@ -1,5 +1,118 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.bcra.2025.100379
+  title: 'Bitcoin reimagined: A comprehensive study of ordinals and inscriptions protocols
+    for Web3 asset innovation'
+  authors:
+  - Md Monjurul Karim
+  - Qiang Qu
+  - Yaoyi Cai
+  - Teddy Liu
+  - Xingchen Meng
+  publisher: 'Blockchain: Research and Applications'
+  date: '2026-10-01'
+  link: https://doi.org/hbp9nv
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00607-026-01724-y
+  title: Fast and accurate distributed top-k aggregation
+  authors:
+  - Van Dong Hoang
+  - Md Monjurul Karim
+  - Qiang Qu
+  publisher: Computing
+  date: '2026-08-07'
+  link: https://doi.org/hcd7w3
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2026.108499
+  title: 'MTC-SBC: Reputation-based service provision for multi-tier computing-enabled
+    sharded blockchain'
+  authors:
+  - Md Monjurul Karim
+  - Qiang Qu
+  - Kashif Sharif
+  - Muhammad Muzammal
+  - Sujit Biswas
+  publisher: Future Generation Computer Systems
+  date: '2026-09-01'
+  link: https://doi.org/hbv4ck
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cosrev.2026.100936
+  title: 'From trust to augmentation: A comprehensive survey on synergistic integration
+    of decentralized and generative intelligence'
+  authors:
+  - Md Monjurul Karim
+  - Sangeen Khan
+  - Qiang Qu
+  - Muhammad Muzammal
+  - Kashif Sharif
+  - Sujit Biswas
+  publisher: Computer Science Review
+  date: '2026-08-01'
+  link: https://doi.org/hbq44x
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMC.2025.3649700
+  title: Blockchain-Based MIMO AAV-Aided Mobile Edge Computing
+  authors:
+  - Xuewen Dong
+  - Xiaojie Guo
+  - Shuangrui Zhao
+  - Xindi Ma
+  - Jiandong Wang
+  - Qiang Qu
+  - Yulong Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2026-06-01'
+  link: https://doi.org/hbpxt2
+  orcid: 0000-0001-5814-8460
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  tags:
+  - uav
+  - mec
+  - blockchain
+  - mimo
+  description: Blockchain-based MIMO UAV-aided MEC with trajectory planning and task
+    offloading.
+- id: doi:10.1109/TDSC.2026.3661572
+  title: 'PriFFT: Privacy-Preserving Federated Fine-Tuning of Large Language Models
+    via Hybrid Secret Sharing'
+  authors:
+  - Zhichao You
+  - Xuewen Dong
+  - Ke Cheng
+  - Xutong Mu
+  - Jiaxuan Fu
+  - Shiyang Ma
+  - Qiang Qu
+  - Yulong Shen
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2026-05-01'
+  link: https://doi.org/hbp9ns
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ai7040117
+  title: Just-in-Time Historical State Reconstruction for Low-Latency Financial Trading
+    with Large Language Models
+  authors:
+  - Dong Hoang Van
+  - Md Monjurul Karim
+  - Qiang Qu
+  publisher: AI
+  date: '2026-03-27'
+  link: https://doi.org/hbt84r
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bcra.2026.100455
   title: 'Securing Decentralized Finance: A Comprehensive Survey of Maximal Extractable
     Value and Its Countermeasures'
@@ -20,48 +133,6 @@
   - security
   - survey
   description: Survey of MEV threats and countermeasures in DeFi ecosystems.
-- id: doi:10.1109/TMC.2025.3649700
-  title: Blockchain-Based MIMO UAV-Aided Mobile Edge Computing
-  authors:
-  - Xuewen Dong
-  - Xiaojie Guo
-  - Shuangrui Zhao
-  - Xindi Ma
-  - Jiandong Wang
-  - Qiang Qu
-  - Yulong Shen
-  publisher: IEEE Transactions on Mobile Computing
-  date: '2026-01-01'
-  link: https://doi.org/hbpxt2
-  orcid: 0000-0001-5814-8460
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  tags:
-  - uav
-  - mec
-  - blockchain
-  - mimo
-  description: Blockchain-based MIMO UAV-aided MEC with trajectory planning and task
-    offloading.
-- id: doi:10.1109/TDSC.2026.3661572
-  title: 'PriFFT: Privacy-Preserving Federated Fine-Tuning of Large Language Models
-    Via Hybrid Secret Sharing'
-  authors:
-  - Zhichao You
-  - Xuewen Dong
-  - Ke Cheng
-  - Xutong Mu
-  - Jiaxuan Fu
-  - Shiyang Ma
-  - Qiang Qu
-  - Yulong Shen
-  publisher: IEEE Transactions on Dependable and Secure Computing
-  date: '2026-01-01'
-  link: https://doi.org/hbp9ns
-  orcid: 0000-0001-5814-8460
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/978-981-95-5716-5_35
   title: "Probabilistic Optimization of\_Top-k Aggregation in\_Distributed Environments"
   authors:
@@ -71,21 +142,6 @@
   publisher: Lecture Notes in Computer Science
   date: '2026-01-01'
   link: https://doi.org/hbp9nt
-  orcid: 0000-0001-5814-8460
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.bcra.2025.100379
-  title: 'Bitcoin reimagined: A comprehensive study of ordinals and inscriptions protocols
-    for Web3 asset innovation'
-  authors:
-  - Md Monjurul Karim
-  - Qiang Qu
-  - Yaoyi Cai
-  - Teddy Liu
-  - Xingchen Meng
-  publisher: 'Blockchain: Research and Applications'
-  date: '2025-09-01'
-  link: https://doi.org/hbp9nv
   orcid: 0000-0001-5814-8460
   plugin: orcid.py
   file: orcid.yaml
@@ -162,6 +218,15 @@
   publisher: Future Internet
   date: '2025-02-02'
   link: https://doi.org/hbp9n2
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:123679089
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:123679089
   orcid: 0000-0001-5814-8460
   plugin: orcid.py
   file: orcid.yaml
@@ -337,6 +402,21 @@
   publisher: Tsinghua Science and Technology
   date: '2024-12-01'
   link: https://doi.org/hbp9pc
+  orcid: 0000-0001-5814-8460
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.MTSUST.2023.100621
+  title: Preparation of Eucommia ulmoides Oliver wood derived activated carbons by
+    combined microwave hydrothermal pretreatment and microwave pyrolysis as electrode
+    materials for super capacitive performance
+  authors:
+  - Zhi-Zhen Chi
+  - Bi-Xin Yuan
+  - Qiang Qu
+  - Ming-Qiang Zhu
+  publisher: Materials Today Sustainability
+  date: '2024-03-01'
+  link: https://doi.org/hccstg
   orcid: 0000-0001-5814-8460
   plugin: orcid.py
   file: orcid.yaml
@@ -787,7 +867,7 @@
   - Nasim Nezhadsistani
   - Omid Bodaghi
   - Qiang Qu
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2021-10-05'
   link: https://doi.org/hbp9p9
   orcid: 0000-0001-5814-8460
@@ -984,7 +1064,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:10450823
-  title: ISSN 1045-0823 (Print) | IJCAI | The ISSN Portal
+  title: ISSN 1045-0823 - IJCAI (United States)
   authors: []
   publisher: ''
   date: ''
@@ -1493,7 +1573,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:23318422
-  title: ISSN 2331-8422 (Online) | ArXiv.org | The ISSN Portal
+  title: ISSN 2331-8422 - ArXiv.org
   authors: []
   publisher: ''
   date: ''
@@ -1866,15 +1946,6 @@
   publisher: 2014 IEEE 15th International Conference on Mobile Data Management
   date: '2014-07-01'
   link: https://doi.org/hbp9rr
-  orcid: 0000-0001-5814-8460
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000382946503064
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000382946503064
   orcid: 0000-0001-5814-8460
   plugin: orcid.py
   file: orcid.yaml
